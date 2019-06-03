@@ -7,3 +7,5 @@ The goal is simpliy to form grouping, not working out Gene Enrichment Score from
 
 From https://www.nature.com/articles/s41467-019-09681-1  
 
+![plot1]( GOGroup1.pdf)
+
