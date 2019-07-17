@@ -1,5 +1,5 @@
 # Jellyfishtest
-Codes on jellyfish data
+Codes on jellyfish poison data
 
 tried to workout GO Groupings using pubilically avaliable summary data, for raw data you must request it from original research. https://www.nature.com/articles/s41467-019-09681-1. The study is very interesting. 
 
